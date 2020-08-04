@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Full-Stack Developer`,
-    description: `Full-Stack Developer based in Toronto, Ontario, Canada.`,
+    description: `Full-Stack Developer based in Tel-Aviv.`,
     author: `@RyanAFitzgerald`,
   },
   plugins: [

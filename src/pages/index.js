@@ -13,7 +13,7 @@ const IndexPage = () => (
     <SEO title="Noy Agasi" />
     <Section id="about" title="About Me">
       <p>
-        During the past few months I have been slowly but surely specializing in full-stack development
+        During the past few months I have been specializing in full-stack development
         and some time along the way I fell in love with JavaScript and the web.
       </p>
       <p>

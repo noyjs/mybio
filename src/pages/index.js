@@ -33,7 +33,7 @@ const IndexPage = () => (
         link="https://www.ceva-dsp.com/"
         desc="Software and Automation Developer, July 2020 - Present"
       />
-      <p className={classes.desc}>- Developed some basic React web applications that display our failures and results. Based on Ant Design on frontend, REST/GraphQL and Node.js using “<a href={"https://github.com/goldbergyoni/nodebestpractices"}>Best Practices</a>”.</p>
+      <p className={classes.desc}>- Developed some basic React web applications that display our failures and results. Based on Ant Design on frontend, REST/GraphQL and Node.js using “<a className={classes.linkText} href={"https://github.com/goldbergyoni/nodebestpractices"}>Best Practices</a>”.</p>
       <p className={classes.desc}>- Implemented from scratch the Jython API that is used for IDE scripting in order to test our IDE automatically and expose bugs as quickly as possible.</p>
       <p className={classes.desc}>- Debugged test failures across various platforms (Red Hat, Ubuntu and Windows) and repaired complex software bugs.</p>
       <p className={classes.desc}>- Initiated independently Python scripting to improve efficiencies of CEVA's main product. It revealed plenty of performance slowdowns and saved us a lot of development time.</p>

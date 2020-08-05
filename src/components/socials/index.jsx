@@ -49,12 +49,12 @@ const Socials = () => {
           <a className={classes.link} href="mailto:agasinoy@gmail.com">
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              width="25"
-              height="25"
+              width="26"
+              height="26"
               viewBox="0 0 19 19"
               fill="none"
               stroke="currentColor"
-              strokeWidth="1"
+              strokeWidth="0.9"
               strokeLinecap="round"
               strokeLinejoin="round"
             >
@@ -67,7 +67,7 @@ const Socials = () => {
             <svg xmlns="http://www.w3.org/2000/svg"
               width="24"
               height="24"
-              viewBox="0 0 64 64"
+              viewBox="0 0 70 70"
               fill="none"
               stroke="currentColor"
               strokeWidth="5"

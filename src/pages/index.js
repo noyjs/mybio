@@ -23,15 +23,15 @@ const IndexPage = () => (
     </Section>
     <Section id="education" title="Education">
       <Link
-        title="B.Sc. in Computer Science"
-        desc="The College of Management Academic Studies, GPA: 92"
+        title="B.Sc. in Computer Science, GPA: 92"
+        desc="The College of Management Academic Studies, 2015 - 2018"
       />
     </Section>
     <Section id="experience" title="Experience">
       <Link
         title="CEVA"
         link="https://www.ceva-dsp.com/"
-        desc="Software and Automation Developer, July 2020 - Present"
+        desc="Software and Automation Developer, 2018 - Present"
       />
       <p className={classes.desc}>- Developed some basic React web applications that display our failures and results. Based on Ant Design on frontend, REST/GraphQL and Node.js using “<a className={classes.linkText} href={"https://github.com/goldbergyoni/nodebestpractices"}>Best Practices</a>”.</p>
       <p className={classes.desc}>- Implemented from scratch the Jython API that is used for IDE scripting in order to test our IDE automatically and expose bugs as quickly as possible.</p>

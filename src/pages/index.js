@@ -44,7 +44,7 @@ const IndexPage = () => (
         link="http://www.goalaso.store/"
         desc="React.js, Redux, Node.js, Express.js, EC2 (AWS)"
       />
-      <p className={classes.desc}>●	Created an Ecommerce store based on a Node+Express back-end and hosted on AWS EC2.</p>
+      <p className={classes.desc}>●	Created an Ecommerce store based on a Node/Express back-end and hosted on AWS EC2.</p>
       <p className={classes.desc}>●	Utilized Bcrypt and JWT Authentication for secure password creation and encryption.</p>
       <p className={classes.desc}>●	Authored powerful unit tests with with Mocha, Chai, and SinonJS to ensure strong project release.</p>
       <p className={classes.desc}>●	Constructed a React and Material-UI front-end, paired with CSS Grid and Flexbox to incorporate responsive and dynamic webapges.</p>
@@ -55,7 +55,7 @@ const IndexPage = () => (
         desc="React.js, Node.js, MongoDB, REST API, Heroku"
       />
       <p className={classes.desc}>●	Developed a Node.js full-stack application with authentication that offers note-taking functionality for online users.</p>
-      <p className={classes.desc}>●	Wrote and authored theReact front-end, following best practices for user experience.</p>
+      <p className={classes.desc}>●	Wrote and authored the React front-end, following best practices for user experience.</p>
       <p className={classes.desc}>●	Constructed a MongoDB NoSQL database and hosted on Heroku PaaS to store users and notes.</p>
       
     </Section>

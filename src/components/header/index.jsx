@@ -9,15 +9,14 @@ const Header = () => {
   return (
     <div className={classes.headerWrapper}>
       <div className={classes.profileWrapper}>
-        <img
-          className={classes.profilePicture}
-          src={imgSrc}
-          alt="Noy Agasi"
-        />
+        <img className={classes.profilePicture} src={imgSrc} alt="Noy Agasi" />
       </div>
       <div className={classes.profileContent}>
         <h1>Noy Agasi</h1>
-        <h2>Full-Stack Developer based in Tel-Aviv, Israel.</h2>
+        <h2>
+          Full Stack Developer (Frontend oriented) based in Rishon LeZion,
+          Israel.
+        </h2>
         <Socials />
       </div>
     </div>

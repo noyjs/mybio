@@ -41,3 +41,16 @@
 .linkText:hover {
   color: #3997dc;
 }
+
+.linkTextInText {
+  border-bottom: 0.75px solid #3997dc;
+  color: currentColor;
+  display: inline;
+  font-size: 16px;
+  margin-bottom: 10px;
+  text-decoration: none;
+}
+
+.linkTextInText:hover {
+  color: #3997dc;
+}

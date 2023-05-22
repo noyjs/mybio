@@ -1,6 +1,6 @@
 import React from "react";
 
-import imgSrc from "../../images/picture.jpg";
+import imgSrc from "../../images/image.jpg";
 import Socials from "../socials";
 
 import classes from "./header.module.css";

@@ -12,7 +12,7 @@ const Header = () => {
         <img className={classes.profilePicture} src={imgSrc} alt="Noy Agassi" />
       </div>
       <div className={classes.profileContent}>
-        <h1>Noy Agasi</h1>
+        <h1>Noy Agassi</h1>
         <h2>
           Full Stack Developer (Frontend oriented) based in Rishon LeZion,
           Israel.

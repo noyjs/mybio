@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Mid Dev`,
+    title: `JS Dev`,
     description: `Full Stack Developer (Frontend oriented) based in Rishon LeZion, Israel.`,
     author: `Noy`,
   },

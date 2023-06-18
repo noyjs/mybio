@@ -9,7 +9,7 @@ const Header = () => {
   return (
     <div className={classes.headerWrapper}>
       <div className={classes.profileWrapper}>
-        <img className={classes.profilePicture} src={imgSrc} alt="Noy Agasi" />
+        <img className={classes.profilePicture} src={imgSrc} alt="Noy Agassi" />
       </div>
       <div className={classes.profileContent}>
         <h1>Noy Agasi</h1>
